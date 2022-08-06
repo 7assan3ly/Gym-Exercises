@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Gym-Exercises/static/css/main.89d962c3.css",
-    "main.js": "/Gym-Exercises/static/js/main.37bcd89f.js",
+    "main.js": "/Gym-Exercises/static/js/main.75c53e36.js",
     "static/media/banner.jpg": "/Gym-Exercises/static/media/banner.f70ec7d3ab6299d785f1.jpg",
     "static/media/gym.png": "/Gym-Exercises/static/media/gym.6e701417c428e2fbc267.png",
     "index.html": "/Gym-Exercises/index.html",
     "main.89d962c3.css.map": "/Gym-Exercises/static/css/main.89d962c3.css.map",
-    "main.37bcd89f.js.map": "/Gym-Exercises/static/js/main.37bcd89f.js.map"
+    "main.75c53e36.js.map": "/Gym-Exercises/static/js/main.75c53e36.js.map"
   },
   "entrypoints": [
     "static/css/main.89d962c3.css",
-    "static/js/main.37bcd89f.js"
+    "static/js/main.75c53e36.js"
   ]
 }
